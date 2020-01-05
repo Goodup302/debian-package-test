@@ -1,0 +1,3 @@
+#!/bin/bash
+touch ~/.myecho_content
+echo "HELLO WORLD" >ls ~/.myecho_content
